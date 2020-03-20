@@ -1,0 +1,19 @@
+{
+  "name": "taiko-ujt",
+  "version": "0.1.0",
+  "description": "Taiko User Journey Testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThirstyHead/taiko-ujt.git"
+  },
+  "author": "Scott Davis <scott@thirstyhead.com> (https://thirstyhead.com/)",
+  "license": "CC-BY-4.0",
+  "bugs": {
+    "url": "https://github.com/ThirstyHead/taiko-ujt/issues"
+  },
+  "homepage": "https://github.com/ThirstyHead/taiko-ujt#readme"
+}
