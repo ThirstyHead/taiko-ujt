@@ -4,7 +4,7 @@
   "description": "Taiko User Journey Testing",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ThirstyHead/taiko-ujt/issues"
   },
-  "homepage": "https://github.com/ThirstyHead/taiko-ujt#readme"
+  "homepage": "https://github.com/ThirstyHead/taiko-ujt#readme",
+  "dependencies": {
+    "taiko": "^1.0.5"
+  }
 }
